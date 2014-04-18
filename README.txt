@@ -9,12 +9,10 @@
 #########################################
 
 BLOCKS
-
+======
 
 DESCRIPTION:
+------
 BLOCKS is a simple game built in python using Tkinter libraries.
 
-
-AUTHORS:
-Matthew Poegel
 
