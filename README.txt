@@ -1,0 +1,20 @@
+#########################################
+##-------------------------------------##
+##-UUU---U-----UUU----UUU--U---U---UUU-##
+##-U--U--U----U---U--U-----U--U---U----##
+##-UUUU--U----U---U--U-----UUU-----UU--##
+##-U--U--U----U---U--U-----U--U------U-##
+##-UUU---UUU---UUU----UUU--U---U--UUU--##
+##-------------------------------------##
+#########################################
+
+BLOCKS
+
+
+DESCRIPTION:
+BLOCKS is a simple game built in python using Tkinter libraries.
+
+
+AUTHORS:
+Matthew Poegel
+
